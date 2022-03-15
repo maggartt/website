@@ -1,0 +1,25 @@
+---
+title: <span style="color:white">Trevor Maggart<br><span class = "smaller">he | him | his</span></span>
+image: "trevor.jpg"
+primary-background-color: "#1A1A2E"
+links:
+  - label: <span style="color:white">LinkedIn</span>
+    url: "https://www.linkedin.com/in/trevor-maggart-2380a499/"
+  - label: <span style="color:white">Email</span>
+    url: "trevor.maggart@gmail.com"
+  - label: <span style="color:white">GitHub</span>
+    url: "https://github.com/maggartt"
+  - label: <span style="color:white">Bandcamp</span>
+    url: "https://theoceanographer.bandcamp.com/"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+## <span style="color:white">Bio</span>
+<span style="color:white">I am a master's student studying environmental science and management at the Bren School at the University of California - Santa Barbara. I specialize in water resource management and am passionate about helping create self-sufficient, resilient communities that transcend hierarchical structures to create a more just future for all. In addition, I am fascinated by noise and love to create ambient music.</span>
+
+## <span style="color:white">Education</span>
+<span style="color:white">Master's of Environmental Science & Management - UC Santa Barbara (Expected 2023)</span><br>
+<span style="color:white">Bachelor of Arts in Geology - Macalester College 2016</span>
+
+

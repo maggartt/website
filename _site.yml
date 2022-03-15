@@ -1,0 +1,18 @@
+name: "."
+title: "Trevor Maggart"
+primary-background-color: "#1A1A2E"
+theme: postcards.css
+description: |
+  mfeo
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+    - text: "Projects"
+      href: blog.html
+    - text: "CV"
+      href: "Maggart_Trevor_Bren_Resume.pdf"
+output: distill::distill_article

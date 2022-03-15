@@ -1,0 +1,72 @@
+---
+title: "Music"
+theme: music.css
+date: 
+output: distill::distill_article
+---
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+  text-color: #FFFFFF;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+</style>
+</head>
+<body>
+
+<div class="container" style="width:50%;float:left">
+  <a href="https://theoceanographer.bandcamp.com/album/experiments-in-tape">
+     <img src="experiments.jpg" class="image" style="width:100%">
+      <div class="middle" color="white">
+        Experiments in Tape
+  </a>
+</div>
+
+
+<div class="container" style="width:50%;float:left">
+  <a href="https://theoceanographer.bandcamp.com/album/themes-for-self-loathing-sometimes-youre-still-a-winner">
+     <img src="themes.jpg" class="image" style="width:100%">
+      <div class="middle" color="white">
+        Themes for Self-Loathing
+  </a>
+</div>
+
+</body>
+</html>
+
+
+
