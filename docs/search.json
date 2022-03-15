@@ -1,0 +1,33 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About me.",
+      "author": [],
+      "contents": "\n\nI am currently pursuing my Master’s in Environmental Science & Management from the Bren School for the Environment at the University of California - Santa Barbara. Here, I strive to combine data science and journalism to help marginalized groups have the information they need to create a more just world.\nPrior to this, I lived in the Midwest for the past 9-years. I graduated from Macalester College in 2016 with a B.A. in Geology. It was there I conducted research on anisotropy of magnetic susceptibility in channelized lava flows in Iceland. At the time I was fortunate enough to work on the Syracuse Lava Project to create analog flows in juxtaposition to the channelized flow at my field site.\n\n\n\n\n",
+      "last_modified": "2022-03-14T17:46:06-07:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "Projects",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-03-14T17:46:07-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "<span style=\"color:white\">Trevor Maggart<br><span class = \"smaller\">he | him | his<\/span><\/span>",
+      "author": [],
+      "contents": "\n\n          \n          \n          Trevor Maggart\n          \n          \n          Home\n          About Me\n          Projects\n          CV\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Trevor Maggarthe | him | his\n            \n            \n              \n                \n                    \n                      \n                        LinkedIn\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                    \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Bandcamp\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Bio\n            I am a master’s student studying environmental science and management at the Bren School at the University of California - Santa Barbara. I specialize in water resource management and am passionate about helping create self-sufficient, resilient communities that transcend hierarchical structures to create a more just future for all. In addition, I am fascinated by noise and love to create ambient music.\n            \n            \n            Education\n            Master’s of Environmental Science & Management - UC Santa Barbara (Expected 2023)Bachelor of Arts in Geology - Macalester College 2016\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Trevor Maggarthe | him | his\n            \n            \n              \n                \n                                    \n                    \n                      LinkedIn\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      Bandcamp\n                    \n                  \n                                  \n              \n            \n            \n              \n              Bio\n              I am a master’s student studying environmental science and management at the Bren School at the University of California - Santa Barbara. I specialize in water resource management and am passionate about helping create self-sufficient, resilient communities that transcend hierarchical structures to create a more just future for all. In addition, I am fascinated by noise and love to create ambient music.\n              \n              \n              Education\n              Master’s of Environmental Science & Management - UC Santa Barbara (Expected 2023)Bachelor of Arts in Geology - Macalester College 2016\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2022-03-14T17:46:07-07:00"
+    },
+    {
+      "path": "music.html",
+      "title": "Music",
+      "author": [],
+      "contents": "\n\n\n\n.container {\n  position: relative;\n  width: 50%;\n}\n\n.image {\n  opacity: 1;\n  display: block;\n  width: 100%;\n  height: auto;\n  transition: .5s ease;\n  backface-visibility: hidden;\n}\n\n.middle {\n  transition: .5s ease;\n  opacity: 0;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  -ms-transform: translate(-50%, -50%);\n  text-align: center;\n  text-color: #FFFFFF;\n  font-size: 16px;\n  padding: 16px 32px;\n}\n\n.container:hover .image {\n  opacity: 0.3;\n}\n\n.container:hover .middle {\n  opacity: 1;\n}\n\n\n \n    Experiments in Tape\n\n\n\n \n    Themes for Self-Loathing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2022-03-14T17:46:07-07:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
